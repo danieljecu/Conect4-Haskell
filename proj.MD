@@ -60,4 +60,3 @@ algoritmul minimax
 
 --tine minte tabla 
 --o structura care sa se stie daca a castigat cineva
-
